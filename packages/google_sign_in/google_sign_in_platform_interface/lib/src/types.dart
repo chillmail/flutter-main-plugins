@@ -31,7 +31,7 @@ class GoogleSignInUserData {
     this.displayName,
     this.photoUrl,
     this.idToken,
-    this.serverAuthCode;
+    this.serverAuthCode
   });
 
   /// The display name of the signed in user.

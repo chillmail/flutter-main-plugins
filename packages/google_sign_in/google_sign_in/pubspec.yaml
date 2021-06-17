@@ -25,12 +25,12 @@ dependencies:
     sdk: flutter
   google_sign_in_platform_interface:
     git:
-      ref: chillmail/self-linked
+      ref: chillmail/self-linked-2
       url: git://github.com/chillmail/flutter-main-plugins
       path: packages/google_sign_in/google_sign_in_platform_interface
   google_sign_in_web:
     git:
-      ref: chillmail/self-linked
+      ref: chillmail/self-linked-2
       url: git://github.com/chillmail/flutter-main-plugins
       path: packages/google_sign_in/google_sign_in_web
   meta: ^1.3.0
